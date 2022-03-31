@@ -13,3 +13,7 @@
 Рассмотрим следующий текст, относительно которого будут запросы по поиску строк:
 
 ![text](https://user-images.githubusercontent.com/65976385/161101135-2908df9f-93de-4e2e-b4c9-3d21cb7d937f.jpg)
+
+Затем мы подаем полный путь этого файла, как аргумент:
+
+![step2](https://user-images.githubusercontent.com/65976385/161101883-69ad4ff7-da2f-449d-8b67-ea883f5acb34.jpg)
