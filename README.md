@@ -17,3 +17,11 @@
 Затем мы подаем полный путь этого файла, как аргумент:
 
 ![step2](https://user-images.githubusercontent.com/65976385/161101883-69ad4ff7-da2f-449d-8b67-ea883f5acb34.jpg)
+
+Вводим данные:
+
+![step3](https://user-images.githubusercontent.com/65976385/161102978-0693a98a-5215-454e-8a80-9dd1c2212fad.jpg)
+
+Получаем результат:
+
+![step4](https://user-images.githubusercontent.com/65976385/161103317-37eeb05e-5e9d-45bd-ae28-7937f6a81af2.jpg)
